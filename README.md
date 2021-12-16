@@ -1,3 +1,3 @@
-A godot wrapper in dart. 
+## NOT WORKING
 
-Personally don't know much about godot. But here it is for anyone who is interested.
+Embedding dart is hard and I don't have the time to work on this project.
